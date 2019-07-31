@@ -1,17 +1,12 @@
-/*@media screen and (max-width: 640px){
-	container{
-		width: 100%;
-	}
-}*/
 
 panel{
 	width: 100%;
 }
 
 .jumbotron{
-	background-color: #5cb85c;
+	background-color: #8c149c;
 	/* Find light color of success panel */
-	color: #eeeecc;
+	color: #f0f059;
 	padding-top: 1%;
 	padding-bottom: 2%;
 }
