@@ -3,7 +3,7 @@ panel{
 	width: 100%;
 }
 
-.jumbotron{
+.jumbotron {
 	background-color: #8c149c;
 	/* Find light color of success panel */
 	color: #f0f059;
@@ -11,6 +11,8 @@ panel{
 	padding-bottom: 2%;
 }
 
-.panel-heading{
+.panel-heading {
 	padding-top: 0.25%;
+	background-color: #1167e9;
+	color: #e6eeee;
 }
