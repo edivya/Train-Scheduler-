@@ -21,4 +21,4 @@ their arrival times and how many minutes remain until they arrive at their stati
 
 ## Screenshot
 
-(https://github.com/edivya/Train-Scheduler-/blob/master/assets/images/Train%20Schedule.png)
+![TrainSchedule](https://github.com/edivya/Train-Scheduler-/blob/master/assets/images/Train%20Schedule.png)
