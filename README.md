@@ -20,3 +20,5 @@ their arrival times and how many minutes remain until they arrive at their stati
 - Users from many different machines must be able to view same train times.
 
 ## Screenshot
+
+(https://github.com/edivya/Train-Scheduler-/blob/master/assets/images/Train%20Schedule.png)
